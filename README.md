@@ -39,6 +39,7 @@ from your terminal.
 
 ## Switch Dependencies Version
 ![enter image description here](https://lh3.googleusercontent.com/r25BnFLanbL0Y1W4qrbJCpGFTKdsWUA0jRTfZg-Q4lYAjMSnzFxLcWEtfAc-3Z-5mK4PxMt67rk)
+
 just change the version from JSON object and run ***velar.js*** again then see the magic!!! Version of your dependencies will automatically changed.
 
 ## Want to Contribute?

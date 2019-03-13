@@ -1,6 +1,6 @@
 {
   "name": "velar",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "easy to use front-end dependency manager",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   "homepage": "https://github.com/shakilahmmeed/velar#readme",
   "dependencies": {
     "download-file": "^0.1.5",
+    "empty-folder": "^2.0.3",
     "request": "^2.88.0"
   }
 }
