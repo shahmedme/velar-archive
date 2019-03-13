@@ -1,0 +1,27 @@
+{
+  "name": "velar",
+  "version": "1.0.0",
+  "description": "easy to use front-end dependency manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "node velar.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakilahmmeed/velar.git"
+  },
+  "keywords": [
+    "frontend-tool",
+    "dependency-manager"
+  ],
+  "author": "Shakil Ahmed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shakilahmmeed/velar/issues"
+  },
+  "homepage": "https://github.com/shakilahmmeed/velar#readme",
+  "dependencies": {
+    "download-file": "^0.1.5",
+    "request": "^2.88.0"
+  }
+}
